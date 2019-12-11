@@ -1,0 +1,17 @@
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Services.dll
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Services.pdb
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Pocos.dll
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Repo.dll
+D:\Coding\C#\newcofeshop\Services\bin\Debug\EntityFramework.dll
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Pocos.pdb
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Pocos.dll.config
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Repo.pdb
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Repo.dll.config
+D:\Coding\C#\newcofeshop\Services\bin\Debug\EntityFramework.xml
+D:\Coding\C#\newcofeshop\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Coding\C#\newcofeshop\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Coding\C#\newcofeshop\Services\obj\Debug\Services.dll
+D:\Coding\C#\newcofeshop\Services\obj\Debug\Services.pdb
+D:\Coding\C#\newcofeshop\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\C#\newcofeshop\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\C#\newcofeshop\Services\bin\Debug\Services.dll.config

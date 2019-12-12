@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Services.BasketDTO">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasketDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Services.BasketItemDTO">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAIAAAAAAACAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasketItemDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Services.BasketService" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>GSAgAgAAAAAAAAAAAAAQAAAAAAACQAACAAAACIAIBEA=</HashCode>
+      <FileName>BasketService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="2.565" />
+  </Class>
+  <Class Name="Services.CoffeeDTO">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAEAAAABAAAAQAAAAAAAEAAQAAAAgAAgA=</HashCode>
+      <FileName>CoffeeDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Services.IBasketService">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSAgAAAAAAAAAAAAAAAAAAAAAAACQAACAAAACAAABAA=</HashCode>
+      <FileName>IBasketService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
